@@ -1,0 +1,20 @@
+{
+    "name": "brackets-audit-support",
+    "title": "Nessus .audit Support",
+    "description": "Adds Nessus .audit syntax highlighting to Brackets.",
+    "version": "0.0.1",
+    "author": "marbe9312",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marbe9312/brackets-audit-support.git"
+    },
+    "keywords": [
+        "audit",
+        "syntax"        
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.40.0"
+    }
+}
